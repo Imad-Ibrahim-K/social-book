@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: hs235
+Version: 0.1
+Summary: hello world
+Home-page: https://github.com/ahffk333/HS_Project_python
+Author: hyunsung
+Author-email: hyunsung235@gmail.com
+License: UNKNOWN
+Keywords: python
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# hs235
+
