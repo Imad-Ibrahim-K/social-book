@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-2kbv)*_v9m7!z+#*7!bxs%db^z4(v&w)e@9)e2m(4f#akswv3n
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['social-book-app.onrender.com']
 
 
 # Application definition
